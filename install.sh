@@ -17,4 +17,3 @@ sudo cp -r metadata.desktop /usr/share/sddm/themes/ArchLinux/
 sudo cp -r preview.png /usr/share/sddm/themes/ArchLinux/
 sudo cp -r SessionButton.qml /usr/share/sddm/themes/ArchLinux/
 sudo cp -r theme.conf /usr/share/sddm/themes/ArchLinux/
-test
